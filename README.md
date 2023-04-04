@@ -1,2 +1,2 @@
 # weather_api
-Get weather data using API with python
+Get weather data using API with python.
